@@ -1,0 +1,10 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul li.checked {
+  text-decoration: line-through;
+}
+.delete-btn {
+  margin-left: 12px;
+}
